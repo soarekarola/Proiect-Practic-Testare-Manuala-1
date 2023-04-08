@@ -90,9 +90,9 @@ are boundary value analysis, equivalence partitioning and use case testing.
 ![image](https://user-images.githubusercontent.com/99291143/163688901-26234e0a-abfa-4034-93bf-bca37ad2b50c.png)
 
 
-The test cases with steps can be viewed here: [Dependents_test_cases.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Dependents_test_cases.pdf)
+The test cases with steps can be viewed here: [Dependents_test_cases.pdf](Link)
 
-For the Dependants API, the following checklist was generated: [API_test_checklist.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/API_test_checklist.csv)
+For the Dependants API, the following checklist was generated: [API_test_checklist.csv](Link)
 
 
 ## 1.5 Test Implementation
@@ -109,19 +109,19 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.6 Test Execution
 
 * Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Dependents_cycle_summary_execution.pdf)
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Dependents_created_bugs.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Dependents_created_bugs.pdf)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Dependents_created_bugs.pdf](Link)
     *  Date format is not dd/mm/yyyy
     *  Future "Date of Birth" can be selected from calendar
     *  Only 50 characters are allowed for "Please Specify" field
     *  Only 50 characters are allowed for "Name" field
     *  Relationship "parent" is missing
-* API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Dependents API](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/OrangeHRM%20API%20-%20Dependents.postman_collection.json)
+* API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Dependents API](Link)
 * Full regression testing is needed after the bugs are fixed
 
 ## 1.7 Test Completion
 
 * As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Traceability_matrix.xlsx)
+* The traceability matrix was generated and can be found here: [Traceability_matrix.csv](Link)
 * Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23 
 * A number of 23 test cases were planned for execution and all of them were executed
 * A number of 5 total bugs were found, from which the priority is: 1 is high, 4 are medium and 1 is low
@@ -131,4 +131,4 @@ The following elements are needed to be ready before the test execution phase be
 
 # 2 SQL section
 
-Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [dependents.sql](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/dependents.sql)
+Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [dependents.sql](Link)
