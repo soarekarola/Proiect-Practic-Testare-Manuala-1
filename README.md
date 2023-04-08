@@ -108,7 +108,7 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Dependents_cycle_summary_execution.pdf)
+* Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf](Link)
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [Dependents_created_bugs.pdf](Link)
     *  Date format is not dd/mm/yyyy
     *  Future "Date of Birth" can be selected from calendar
